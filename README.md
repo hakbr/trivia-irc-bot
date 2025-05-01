@@ -1,6 +1,4 @@
-Here's a suitable GitHub repository description and `README.md` summary for your IRC Trivia Bot:
 
----
 
 ### **Repository Name:** `irc-trivia-bot`
 
